@@ -1,0 +1,55 @@
+body{
+    background-color: white;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 16px;
+
+}
+
+.box-1{
+    background-color: red;
+    color: white;
+    padding: 30px;
+    text-align: center;
+}
+
+h2{
+
+    text-align: center;
+    color: red;
+}
+
+h3{
+    text-align: center;
+}
+
+h4{
+    margin-top: 50px;
+    font-size: 20px;
+    text-align: center;
+    color: yellowgreen;
+}
+
+h5 {
+    text-align: center;
+    font-size: 18px;
+    margin-left: 100px;
+    margin-right: 100px;
+}
+
+.center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+  }
+
+.contact {
+    margin: 50px;
+    text-align: center;
+   
+}
+
+.info{
+    color: black;
+
+}
